@@ -1,4 +1,4 @@
-# 🌎 The presentation we used at the ISS course
+# 🌎 The presentation we used at the SE course
 
 This was made by me and Darius, a colleague from my team, to which I want to thank.
 
